@@ -1,0 +1,7 @@
+com/shallowlightning/HelloWorldConfiguration.class
+com/shallowlightning/rest/dao/Sayling.class
+com/shallowlightning/rest/representation/Employee.class
+com/shallowlightning/app.class
+com/shallowlightning/rest/controller/EmployeeRESTController.class
+com/shallowlightning/rest/controller/HelloWorld.class
+com/shallowlightning/rest/dao/EmployeeDB.class
