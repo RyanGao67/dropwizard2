@@ -5,3 +5,4 @@ com/shallowlightning/app.class
 com/shallowlightning/rest/controller/EmployeeRESTController.class
 com/shallowlightning/rest/controller/HelloWorld.class
 com/shallowlightning/rest/dao/EmployeeDB.class
+com/shallowlightning/app$1.class
