@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 import io.federecio.dropwizard.swagger.SwaggerBundle;
 import io.federecio.dropwizard.swagger.SwaggerBundleConfiguration;
 
-
+//  java -jar target/DropWizardExample-0.0.1-SNAPSHOT.jar server exmpale.yml
 public class app extends Application<HelloWorldConfiguration> {
     private static final Logger LOGGER = LoggerFactory.getLogger(app.class);
 
